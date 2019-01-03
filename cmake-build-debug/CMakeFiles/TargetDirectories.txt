@@ -1,0 +1,3 @@
+/Users/minIddamal/Documents/Programming/Calendar Exporter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/minIddamal/Documents/Programming/Calendar Exporter/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/minIddamal/Documents/Programming/Calendar Exporter/cmake-build-debug/CMakeFiles/Calendar_Exporter.dir
